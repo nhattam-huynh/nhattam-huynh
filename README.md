@@ -1,5 +1,5 @@
 ## Hey there 👋<br>
-I'm <a href="https://www.linkedin.com/in/nhattamhuynh" target="_blank">
+I'm <a href="https://www.linkedin.com/in/nhattamhuynh" target="">
   Tom
 <a>,
 
