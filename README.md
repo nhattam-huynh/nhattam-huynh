@@ -1,23 +1,15 @@
-## Hey there 👋<br>
-I'm <a href="https://www.linkedin.com/in/nhattamhuynh" target="_blank">
-  Tom
-<a>, a Master's student at Ontario Tech University, majoring in Business Analytics and AI. <br>
-My core skills are data analysis, transforming data into visualizations, and deriving actionable insights. <br>
-I have made a bunch of projects, mostly focused on solving business case studies. You can find them in my <a href="https://nhattam-huynh.github.io/" target="_blank">
-  portfolio
-<a>.
+<h2>Hey there! 👋</h2>
 
-<!--
-**nhattam-huynh/nhattam-huynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I'm <a href="https://www.linkedin.com/in/nhattamhuynh" target="_blank">Tom</a>, 
+  a Master's student at Ontario Tech University, majoring in Business Analytics and AI.
+</p>
 
-Here are some ideas to get you started:
+<p>
+  My core skills are data analysis, transforming data into visualizations, and deriving actionable insights.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  I have completed several projects, mostly focused on solving business case studies. 
+  You can find them in my <a href="https://nhattam-huynh.github.io/" target="_blank">portfolio</a>.
+</p>
